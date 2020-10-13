@@ -24,7 +24,7 @@
     <mockito.version>1.10.19</mockito.version>
     <pdi.version>6.1.0.1-196</pdi.version>
     <gbase.version>8.3.81.53</gbase.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
   </properties>
 
   <dependencyManagement>
